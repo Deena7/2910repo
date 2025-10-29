@@ -125,3 +125,5 @@ public class FreqTableExampleOriginal {
     }
 
 }
+
+NEW VERSION CODE
